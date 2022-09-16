@@ -1,0 +1,8 @@
+C:\Users\slgwt\source\repos\Labirint_\bin\Debug\Labirint_.exe.config
+C:\Users\slgwt\source\repos\Labirint_\bin\Debug\Labirint_.exe
+C:\Users\slgwt\source\repos\Labirint_\bin\Debug\Labirint_.pdb
+C:\Users\slgwt\source\repos\Labirint_\obj\Debug\Labirint_.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\Labirint_\obj\Debug\Labirint_.csproj.SuggestedBindingRedirects.cache
+C:\Users\slgwt\source\repos\Labirint_\obj\Debug\Labirint_.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\Labirint_\obj\Debug\Labirint_.exe
+C:\Users\slgwt\source\repos\Labirint_\obj\Debug\Labirint_.pdb
